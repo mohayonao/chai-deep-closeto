@@ -1,5 +1,5 @@
 {
-  "name": "chai-deep-closeTo",
+  "name": "chai-deep-closeto",
   "version": "0.1.0",
   "author": "mohayonao <mohayonao@gmail.com>",
   "description": "deep.closeTo for chai",
@@ -12,7 +12,7 @@
     "url": "git://github.com/mohayonao/chai-deep-closeTo.git"
   },
   "bugs": "http://github.com/mohayonao/chai-deep-closeTo/issues",
-  "main": "./lib/chai-deep-closeTo.js",
+  "main": "./lib/chai-deep-closeto.js",
   "scripts": {
     "test": "mocha"
   },

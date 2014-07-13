@@ -1,4 +1,4 @@
-describe("chai-deep-closeTo", function() {
+describe("chai-deep-closeto", function() {
   "use strict";
 
   function err(func) {
