@@ -43,7 +43,7 @@ include [chai-deep-closeto.js](http://mohayonao.github.io/chai-deep-closeto/test
 Asserts that the target is deeply equal **expected**, to within a +/- **delta** range.
 
 ```javascript
-expect([ 1.00001, 2.00001, 3.00001, 4.00001 ]).to.be.clsTo([ 1, 2, 3, 4 ], 1e-4);
+expect([ 1.5, [ 2.5, 3.5 ], 4.5 ]).to.be.clsTo([ 1, [ 2, 3 ], 4 ], 0.5);
 ```
 
 #### deep.closeTo(expected, delta)
@@ -51,9 +51,9 @@ expect([ 1.00001, 2.00001, 3.00001, 4.00001 ]).to.be.clsTo([ 1, 2, 3, 4 ], 1e-4)
 `deep.closeTo` is aliased to `clsTo`
 
 ```javascript
-expect([ 1.00001, 2.00001, 3.00001, 4.00001 ]).to.be.deep.closeTo([ 1, 2, 3, 4 ], 1e-4);
+expect([ 1.5, [ 2.5, 3.5 ], 4.5 ]).to.be.deep.closeTo([ 1, [ 2, 3 ], 4 ], 0.5);
 ```
 
 ## Examples
 
-- [Oneline Test Suites](http://mohayonao.github.io/chai-deep-closeto/)
+- [Online Test Suites](http://mohayonao.github.io/chai-deep-closeto/)
