@@ -1,5 +1,5 @@
 # chai-deep-closeto
-[![NPM Version](http://img.shields.io/npm/v/chai-deep-closeTo.svg?style=flat)](https://www.npmjs.org/package/chai-deep-closeTo)
+[![NPM Version](http://img.shields.io/npm/v/chai-deep-closeto.svg?style=flat)](https://www.npmjs.org/package/chai-deep-closeto)
 [![Build Status](http://img.shields.io/travis/mohayonao/chai-deep-closeTo.svg?style=flat)](https://travis-ci.org/mohayonao/chai-deep-closeTo)
 [![Dependency Status](http://img.shields.io/david/mohayonao/chai-deep-closeTo.svg?style=flat)](https://david-dm.org/mohayonao/chai-deep-closeTo)
 [![Dependency Status](http://img.shields.io/david/dev/mohayonao/chai-deep-closeTo.svg?style=flat)](https://david-dm.org/mohayonao/chai-deep-closeTo)
