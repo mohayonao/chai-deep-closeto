@@ -1,6 +1,6 @@
 {
   "name": "chai-deep-closeto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mohayonao <mohayonao@gmail.com>",
   "description": "deep.closeTo for chai",
   "license": "MIT",
@@ -9,9 +9,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mohayonao/chai-deep-closeTo.git"
+    "url": "git://github.com/mohayonao/chai-deep-closeto.git"
   },
-  "bugs": "http://github.com/mohayonao/chai-deep-closeTo/issues",
+  "bugs": "http://github.com/mohayonao/chai-deep-closeto/issues",
   "main": "./lib/chai-deep-closeto.js",
   "scripts": {
     "test": "mocha"
