@@ -1,4 +1,4 @@
-# chai-deep-closeTo
+# chai-deep-closeto
 [![NPM Version](http://img.shields.io/npm/v/chai-deep-closeTo.svg?style=flat)](https://www.npmjs.org/package/chai-deep-closeTo)
 [![Build Status](http://img.shields.io/travis/mohayonao/chai-deep-closeTo.svg?style=flat)](https://travis-ci.org/mohayonao/chai-deep-closeTo)
 [![Dependency Status](http://img.shields.io/david/mohayonao/chai-deep-closeTo.svg?style=flat)](https://david-dm.org/mohayonao/chai-deep-closeTo)
@@ -10,25 +10,26 @@ Provides `deep.closeTo` for the [Chai](http://chaijs.com/) assertion library.
 
 #### Node.js
 
-`chai-deep-closeTo` is available on npm.
+`chai-deep-closeto` is available on npm.
 
 ```sh
-$ npm install chai-deep-closeTo
+$ npm install chai-deep-closeto
 ```
 
 ```javascript
 var chai = require("chai");
-var chaiDeepCloseTo = require("chai-deep-closeTo");
+var chaiDeepCloseTo = require("chai-deep-closeto");
 
 chai.use(chaiDeepCloseTo);
 ```
 
 #### Browser
 
-include [chai-deep-closeTo.js](http://mohayonao.github.io/chai-deep-closeTo/test/chai-deep-closeTo.js) after including `chai.js`
+include [chai-deep-closeto.js](http://mohayonao.github.io/chai-deep-closeTo/test/chai-deep-closeto.js) after including `chai.js`
 
 ```html
-<script src="chai-deep-clostTo.js"></script>
+<script src="chai.js"></script>
+<script src="chai-deep-closeto.js"></script>
 ```
 
 ## Assertions
